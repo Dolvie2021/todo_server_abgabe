@@ -11,4 +11,4 @@ Neue Anwender können sich registrieren
 Bestehende Anwender können sich und alle ihre Tasks löschen.
 
 Das ausführende Programm befindet sich in der Datei "todoServer_Abgabe"
-Die benutzte Befehle zur Erzeugung der Datenbank befindet sich in der Datei "datenbank.txt"
+Die benutzte Befehle zur Erzeugung der Datenbank befindet sich in der Datei "datenbank_commands.txt"
